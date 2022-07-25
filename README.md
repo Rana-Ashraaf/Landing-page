@@ -1,4 +1,5 @@
 # Landing Page Project
+Asscioated with udacity professional web development nano degree
 
 ## Table of Contents
 
@@ -13,7 +14,7 @@ Additional information:
 
 - w3c school, MDN web docs.
 
-* [Instructions](#instructions)
+
 
 ## Instructions
 
